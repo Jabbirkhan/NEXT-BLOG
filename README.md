@@ -1,2 +1,2 @@
 
-# This Next.js-based blogging website offers a responsive design with various blog categories, dynamic pages, and email subscriptions for updates. The admin panel allows efficient management, including adding, deleting posts, and handling subscriptions. All data is securely stored in MongoDB Atlas for reliable management.
+This Next.js-based blogging website offers a responsive design with various blog categories, dynamic pages, and email subscriptions for updates. The admin panel allows efficient management, including adding, deleting posts, and handling subscriptions. All data is securely stored in MongoDB Atlas for reliable management.
